@@ -12,10 +12,11 @@ Check out the live app [Eat-N-Split](https://eat-n-split-demo.vercel.app/)
 
 **Select a friend :**
 
--   Click on the select button next to the friend you want to split the bill with.
--   Split a bill component will pop up.
--   Enter the bill, expenses values then select who is paying the bill and click on `Split Bill` button.
--   The app will display - `Your friend owes you $` or `You owe your friend $` or `You and your friend are even`.
+-   Click the select button beside the friend with whom you wish to divide the bill.
+-   The split bill component will appear.
+-   Enter the bill and expense values, then select the payer before clicking the `Split Bill` button.
+-   The app will display `Your friend owes you $` or `You owe your friend $` or `You and your friend are even`.
+-   The application will present results such as `Your friend owes you $`, `You owe your friend $`, or `You and your friend are even`.
 
 ## Tools Used
 
