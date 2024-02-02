@@ -1,12 +1,12 @@
 # Eat-N-Split
 
-> An app to calculate the spliting of the bill between you and your friend.
+> An application designed to calculate the equitable distribution of expenses between you and your friend.
 
 <img src='./public/eat-n-split-preview.png'></img>
 
 ## Try it Live!
 
-Check out the live app [Eat-N-Split]()
+Check out the live app [Eat-N-Split](https://eat-n-split-demo.vercel.app/)
 
 ## How to Use
 
@@ -29,12 +29,12 @@ Check out the live app [Eat-N-Split]()
 1. Clone this repository.
 
     ```bash
-    git clone
+    git clone https://github.com/mahmoud-mohsen-dev/eat-n-split.git
     ```
 
 2. Navigate to the Project Directory:
     ```bash
-    cd
+    cd eat-n-split
     ```
 3. Install Dependencies:
 
@@ -42,9 +42,7 @@ Check out the live app [Eat-N-Split]()
      npm install
     ```
 
-4. Development Server
-
-    ##### Start the Development Server:
+4. Start the Development Server:
 
     ```bash
     npm run dev
